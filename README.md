@@ -15,4 +15,4 @@ You can plot by running the command `plotF` in the Octave CLI.
 
 ### Contact
 Feel free to contact us for further details.
-arnaudsaintgenez@kaspermuller.nl
+[arnaudsaintgenez@kaspermuller.nl](mailto:arnaudsaintgenez@kaspermuller.nl)
