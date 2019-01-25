@@ -24,12 +24,13 @@ p.tagline {
 
 // Fix footer
 .owner {
+  //Middle
+  .middle {
+    text-align: center !important; 
+  }
   .left: {
     float: left !important;
     margin: 20px 0 0 0 !important;
-  }
-  .middle {
-    text-align: center !important; 
   }
   .right {
     float: right !important;
