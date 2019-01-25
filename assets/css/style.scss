@@ -5,36 +5,36 @@
 
 // Fix the title not fitting on the page
 h1.title {
-  font-size: 48px;
+  font-size: 48px !important;
 }
 
 // Fix description not being in the middle
 p {
   .tagline {
-     text-align: center;
-     padding: 10px 20px 0;
+     text-align: center !important;
+     padding: 10px 20px 0 !important;
   }
 }
 
 // Fix inner not being in the middle
 .inner {
-  display: inline-block;
+  display: inline-block !important;
   a {
-    text-align: center; 
+    text-align: center !important; 
   }
 }
 
 // Fix footer
 .owner {
   .left: {
-    float: left; 
-    margin: 20px 0 0 0;
+    float: left !important;
+    margin: 20px 0 0 0 !important;
   }
   .middle {
-    text-align: center; 
+    text-align: center !important; 
   }
   .right {
     float: right;
-    margin: -80px 0 0 0;
+    margin: -80px 0 0 0 !important;
   }
 }
