@@ -14,5 +14,5 @@ Open the sheet `Fdata.xlsx`, all options should be self-explanetory.
 You can plot by running the command `plotF` in the Octave CLI.
 
 ### Contact
-Feel free to contact us for further details.
+Feel free to contact us for further details.  
 [arnaudsaintgenez@kaspermuller.nl](mailto:arnaudsaintgenez@kaspermuller.nl)
