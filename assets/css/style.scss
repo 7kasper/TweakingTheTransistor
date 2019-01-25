@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Fix the title not fitting on the page
+.title {
+  font-size: 48px;
+}
+
+// Fix description not being in the middle
+.tagline {
+  text-align: center;
+}
