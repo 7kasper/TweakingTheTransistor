@@ -4,11 +4,35 @@
 @import "{{ site.theme }}";
 
 // Fix the title not fitting on the page
-.title {
+h1 .title {
   font-size: 48px;
 }
 
 // Fix description not being in the middle
-.tagline {
+p .tagline {
   text-align: center;
+  padding: 10px 20px 0;
+}
+
+// Fix inner not being in the middle
+.inner {
+  display: inline-block;
+  a {
+    text-align: center; 
+  }
+}
+
+// Fix footer
+.owner {
+  .left: {
+    float: left; 
+    margin-top: 20px;
+  }
+  .middle {
+    text-align: center; 
+  }
+  .right {
+    float: right;
+    margin-top: -80px;
+  }
 }
